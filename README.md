@@ -1,3 +1,5 @@
 # Medusa
 
-Currently on Unreal Engine 5.5
+Development build currently on Unreal Engine 5.5
+
+Utilizing EnhancedInput, Motion Matching, Animation Warping, and CommonUI
